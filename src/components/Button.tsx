@@ -21,6 +21,7 @@ function Button({
     padding: `${scale * 0.5}rem ${scale * 1}rem`,
     border: 'none',
     color: 'white',
+    fontFamily: 'Unbounded'
   };
 
   return (

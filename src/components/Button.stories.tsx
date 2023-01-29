@@ -45,3 +45,9 @@ MainButton.args = {
   backgroundColor: 'gray',
   size: 'md',
 };
+MainButton.parameters = {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/uJgOJw28bNjggZoEYKtiZk/Untitled?node-id=1%3A2&t=jhPRGaON0GI4D9Wk-1',
+  },
+}
